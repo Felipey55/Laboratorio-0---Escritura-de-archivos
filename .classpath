@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="n8_discotienda/source"/>
+	<classpathentry kind="src" path="n8_discotienda/test/source"/>
+	<classpathentry kind="lib" path="n8_discotienda/lib/discotienda.jar"/>
+	<classpathentry kind="lib" path="n8_discotienda/test/lib/junit.jar"/>
+	<classpathentry kind="output" path="n8_discotienda/classes"/>
+</classpath>
