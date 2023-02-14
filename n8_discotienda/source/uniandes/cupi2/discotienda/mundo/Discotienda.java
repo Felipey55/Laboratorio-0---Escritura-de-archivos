@@ -576,8 +576,11 @@ public class Discotienda
     		
     	}else if(generoDelDiscoEncontrado == 0 || precioDiscoCostosoEncontrado == 0) {
     		
-    		JOptionPane.showMessageDialog(null, "El disco que ingreso no existe o no tiene los datos necesarios. :c");
+    		JOptionPane.showMessageDialog(null, "El disco que ingreso no existe o no tiene los datos necesarios :c");
+    		
     	}
+    	
+    	
     }
 
 
